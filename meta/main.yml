@@ -1,3 +1,4 @@
+---
 galaxy_info:
   author: Dmytro Fedorov
   description: Configure s2s IPsec IKEv2 on MikroTik routers via API

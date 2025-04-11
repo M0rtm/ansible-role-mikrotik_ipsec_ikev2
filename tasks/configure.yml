@@ -1,3 +1,4 @@
+---
 - name: Get current IPsec proposals
   community.routeros.api:
     path: /ip/ipsec/proposal
