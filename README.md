@@ -1,6 +1,6 @@
 ---
 
-# 💪 Ansible Role: MikroTik IPsec IKEv2 Configuration
+#  Ansible Role: MikroTik IPsec IKEv2 Configuration
 
 ![Build Status](https://github.com/M0rtm/ansible-role-mikrotik_ipsec_ikev2/actions/workflows/ansible-galaxy-ci.yml/badge.svg)
 [![Galaxy Role](https://img.shields.io/badge/Ansible--Galaxy-M0rtm.mikrotik_ipsec_ikev2-blue.svg?logo=ansible&logoColor=white)](https://galaxy.ansible.com/M0rtm/mikrotik_ipsec_ikev2/)
@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Requirements
+## Requirements
 
 - Ansible **2.12+**
 - MikroTik RouterOS **v6.45+**

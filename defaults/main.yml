@@ -24,7 +24,7 @@ ipsec_secret: ""
 ipsec_policy_name: "{{ inventory_hostname }}"
 ipsec_src_address: ""
 ipsec_dst_address: ""
-ipsec_sa_src_address: ""   
+ipsec_sa_src_address: ""
 ipsec_policy_tunnel: true
 ipsec_policy_proposal: "{{ ipsec_proposal_name }}"
 
